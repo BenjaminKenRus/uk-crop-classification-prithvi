@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Fine-Tuning Prithvi-2.0-EO for UK Crop Classification '
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Benjamin
+    family-names: Russell
+    email: benjamin.kenney.russell@ut.ee
+    orcid: 'https://orcid.org/0009-0003-0986-7006'
+repository-code: >-
+  https://github.com/BenjaminKenRus/uk-crop-classification-prithvi
+abstract: >-
+  Prithvi-EO-2.0 is a geospatial foundation model that is
+  trained on millions of global time series samples from
+  NASA's Harmonized Landsat and Sentinel-2 data archive. In
+  this project we explored the potential use and performance
+  of Prithvi-EO-2.0 for UK crop classification.
+date-released: '2026-07-30'
